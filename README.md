@@ -222,4 +222,4 @@ iGetter is offered as a **full free version** with all features and updates incl
 Ready to enhance your download experience? **Download iGetter now and take control of your downloads!**
 
 ---
-**Last updated:** 2026-10-02 20:20:59 UTC
+**Last updated:** 2026-10-03 00:02:03 UTC
